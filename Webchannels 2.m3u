@@ -1,0 +1,124 @@
+#EXTM3U
+#PLAYLIST:Webchannels
+# Built with the CODECS.COM Playlist Builder
+
+#EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/z0/k/p/6/9/kp69q.asF-4phcqy-tf27r0.jpeg" group-title="Kids & Family",NickPicks
+https://rumble.com/live-hls-dvr/wCvQ1DYEupQ/playlist.m3u8?level=1
+
+#EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/z8/q/V/o/E/qVoEa.baa-RetroNickelodeon-thsmdz.png" group-title="Kids & Family",Retro Nickelodeon
+https://rumble.com/live-hls-dvr/xF8v4_KSw0g/playlist.m3u8?level=1
+
+#EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/z0/4/q/0/R/4q0Rq.asF-4mnozc-t0pnoh.jpeg" group-title="Kids & Family",ThatsoDisney
+https://rumble.com/live-hls-dvr/VWXnJNo6dyw/playlist.m3u8?level=1
+
+#EXTINF:-1 tvg-logo="https://cartooncartoons.thatsoretro.com/logo" group-title="Kids & Family",Cartoon Network (CartoonCartoons)
+https://cartooncartoons.thatsoretro.com/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/z0/g/o/G/F/goGFq.asF-4kqidi-tb2bdn.jpeg" group-title="Kids & Family",Boomerang Classic
+https://rumble.com/live-hls-dvr/cM8XXu5T1ck/playlist.m3u8?level=1
+
+#EXTINF:-1 tvg-logo="https://static.wikitide.net/indietvwiki/a/a1/TD_AGAIN.png" group-title="Kids & Family",Toon Disney
+https://toy.vcdn.fyi/tdshuffle/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.bongo.stream/channel-assets/fizz/icon.png" group-title="Kids & Family",Fizz
+https://toy.vcdn.fyi/fizz/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2TleFkJPGl_q9iGfaE2g68cU0MFmPmdt6Z5Ec0bV61NaLzrSoVmPwE3s9YOqp7rhpnigL3FbswbSuxmWzIM7MvkOn0OuHXGTwVipxhnmF8OJvWTqyakU_UqxzF-pqh96rP-hkKchzs2yc/s1600/boomerang_eur.png" group-title="Kids & Family",Boomerang2k
+https://vs20.live.opencaster.com/boomerang2k_fa86b24c/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://whiplash.cc/assets/img/channels/yub.png" group-title="Kids & Family",Yub Network
+https://toy.vcdn.fyi/tertiary-yub/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.bongo.stream/channel-assets/boomreborn/icon.png" group-title="Kids & Family",Boom Reborn
+https://toy.vcdn.fyi/boomreborn/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.bongo.stream/channel-assets/cnex/icon.png" group-title="Kids & Family",CNEX
+https://toy.vcdn.fyi/tertiary-toonextra/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.bongo.stream/channel-assets/flashbak/icon.png" group-title="Kids & Family",flashBAK
+https://toy.vcdn.fyi/flashBAK/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.bongo.stream/channel-assets/volt/icon.png" group-title="Kids & Family",Volt
+https://toy.vcdn.fyi/tertiary-volt/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://whiplash.cc/assets/img/channels/whiplash.png" group-title="Entertainment",Whiplash
+https://cdn.whiplash.cc/whiplash/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://whiplash.cc/assets/img/channels/whiplash2.png" group-title="Entertainment",Whiplash II
+https://cdn.whiplash.cc/whiplash-2/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://whiplash.cc/assets/img/channels/whiplashcinema.png" group-title="Entertainment",Whiplash Cinema
+https://cdn.whiplash.cc/whiplash-cinema/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://whiplash.cc/assets/img/channels/windowtv.png" group-title="Entertainment",Window TV
+https://cdn.whiplash.cc/whiplash-windowtv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://whiplash.cc/assets/img/channels/atlas.png" group-title="Entertainment",Atlas
+https://cdn.whiplash.cc/whiplash-atlas/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://whiplash.cc/assets/img/channels/biwi.png" group-title="Entertainment",Biwi
+https://cdn.whiplash.cc/whiplash-biwi/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://whiplash.cc/assets/img/channels/dijit.png" group-title="Entertainment",Dijit
+https://toy.vcdn.fyi/dijit/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.bongo.stream/channel-assets/eel_ch/icon.png" group-title="Entertainment",Eel Channel
+https://toy.vcdn.fyi/eel_ch/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.bongo.stream/channel-assets/2x2/icon.png" group-title="Entertainment",2x2_english
+https://toy.vcdn.fyi/2x2/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.bongo.stream/channel-assets/atlaslife/icon.png" group-title="Entertainment",Atlas Life
+https://toy.vcdn.fyi/whiplash-atlaslife/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.bongo.stream/channel-assets/dfct/icon.png" group-title="Entertainment",Deflect
+https://toy.vcdn.fyi/deflect/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.bongo.stream/channel-assets/nestside/icon.png" group-title="Entertainment",NEST SIDE
+https://toy.vcdn.fyi/nestside/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.bongo.stream/channel-assets/sokoltv/icon.png" group-title="Entertainment",Sokol / Nightview
+https://toy.vcdn.fyi/sokol-tv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.bongo.stream/channel-assets/vltx/icon.png" group-title="Entertainment",Voltix
+https://toy.vcdn.fyi/voltix/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.bongo.stream/channel-assets/webspot/icon.png" group-title="Entertainment",WebSpot
+https://toy.vcdn.fyi/webspot/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.bongo.stream/channel-assets/collective/icon.png" group-title="Music",Collective
+https://toy.vcdn.fyi/whiplash-collective/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.bongo.stream/channel-assets/mns/icon.png" group-title="Music",MNS
+https://toy.vcdn.fyi/mns/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.bongo.stream/channel-assets/mrsat/icon.png" group-title="Music",MRSAT HD
+https://toy.vcdn.fyi/mrsat/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.bongo.stream/channel-assets/crossrift/icon.png" group-title="Animation",CrossRift
+https://toy.vcdn.fyi/crossrift/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.bongo.stream/channel-assets/otvn/icon.png" group-title="Animation",OTVN
+https://toy.vcdn.fyi/otvn/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.bongo.stream/channel-assets/dotwave/icon.png" group-title="Comedy",Dotwave
+https://toy.vcdn.fyi/tertiary-dotwave/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.bongo.stream/channel-assets/wylp/icon.png" group-title="Comedy",WYLP
+https://toy.vcdn.fyi/wylp/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.bongo.stream/channel-assets/jnime/icon.png" group-title="Anime",JNIME
+https://toy.vcdn.fyi/jnime/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.bongo.stream/channel-assets/kinemato/icon.png" group-title="Anime",Kinemato
+https://toy.vcdn.fyi/kinemato/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.bongo.stream/channel-assets/placid/icon.png" group-title="Anime",Placid
+https://toy.vcdn.fyi/placid/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.bongo.stream/channel-assets/xen/icon.png" group-title="General",Xenon (TEMPORARY)
+https://toy.vcdn.fyi/xenon/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/w2tE2VWF2aI7m53lD57nMFLwdjA.png" group-title="24/7",Elray (Everybody Loves Raymond 24/7)
+https://gateway33.vaughnsoft.net/vl/elray.m3u8
+
